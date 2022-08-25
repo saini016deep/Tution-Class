@@ -4,5 +4,6 @@ void main(){
 	a=3;
 	b=3;
 	c=a+b;
+	printf("after addition ");
 	printf("%d",c);
 }
